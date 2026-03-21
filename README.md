@@ -1,6 +1,6 @@
 # Explain My Plan — AI Clarity & Structuring Tool
 
-Live Application Link: [To be added upon deployment]
+Live Application Link: [https://explain-my-plan-theta.vercel.app/]
 
 ## 1. Project Overview
 Individuals often have vague, unstructured ideas that struggle to translate into execution. This web application accepts raw, natural language plans from users and converts them into a structured, executable format using AI (Gemini 2.5). It provides missing elements gap analysis, a summarized clear version, actionable next steps, and an overall Clarity Score.
